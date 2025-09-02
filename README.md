@@ -27,12 +27,12 @@ Programming Instructor (2019-2023)
 
 Taught R and Python courses at UNAM Cuernavaca.
 
-Introduction to R and Python for the Mexican Bioinformatics Network.
+Introduction to R and Python for the Red Mexicana de Bionformatica.
 
-Taught programming fundamentals at the Institute of Biotechnology, UNAM.
+Taught programming fundamentals at Insituto de Biotecnologia, UNAM.
 
 🌟 Featured Projects
-Web development for the University Unit of Massive Sequencing and Bioinformatics.
+Web development for Unidad Universitaria de Secuenciasión Masiva y Bioinformatica.
 
 Web Programming Seminar focused on modern design and responsive functionalities.
 
