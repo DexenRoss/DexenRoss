@@ -1,38 +1,47 @@
-- 👋 Hola, Soy @DexenRoss. Soy egresado de Ciencias de la Computación en la UNAM. Me apasiona desarrollar soluciones tecnológicas innovadoras y estoy constantemente aprendiendo nuevas tecnologías.
-- 👀 Estoy interesado en videojuegos, IAs, LLMs y desarrolo web.
-- 🌱 Lenguajes de Programación: Java, Python, R, C, C++, JavaScript, CSS, HTML, Dart.
-- 🚀 Frameworks & Herramientas: React, Flutter, Stable Diffusion, TensorFlow.
-- 💻 Bases de Datos: PostgreSQL, MySQL.
-- 🖥️ Sistemas & DevOps: Linux, Git, GitHub, GitLab, Bash.
-- 🔒 Ciberseguridad: Pentesting, Web Hacking, Reverse Engineering, Forensic Analysis.
-- 💼 Experiencia:
-    Desarrollador Junior (2025)
+👋 Hello, I'm @DexenRoss. I'm a Computer Science graduate from UNAM (Universidad Nacional Autonoma de México). I am passionate about developing innovative technological solutions and I am constantly learning new technologies.
 
-    Implementación de modelos de IA generativa (Stable Diffusion)
+👀 Interested in: Video Games, AIs, LLMs, Web Development and Ethical Hacking.
 
-    Desarrollo de aplicaciones multiplataforma con Flutter/Dart
+🌱 Programming Languages: Java, Python, R, C, C++, JavaScript, CSS, HTML, Dart.
 
-    Integración de APIs y configuración de conexiones VPN seguras
+🚀 Frameworks & Tools: React, Flutter, Stable Diffusion, TensorFlow.
 
-    Soluciones de machine learning con TensorFlow
+💻 Databases: PostgreSQL, MySQL.
 
-    Instructor de Programación (2019-2023)
+🖥️ Systems & DevOps: Linux, Git, GitHub, GitLab, Bash, Windows.
 
-    Cursos de R y Python en UNAM Cuernavaca
+🔒 Cybersecurity: Pentesting, Web Hacking, Reverse Engineering, Forensic Analysis.
 
-    Introducción a R y Python para la Red Mexicana de Bioinformática
+💼 Experience
+Junior Developer (2025)
 
-    Enseñanza de fundamentos de programación en el Instituto de Biotecnología, UNAM
-  
-- 🌟 Proyectos Destacados
-    Desarrollo web para la Unidad Universitaria de Secuenciación Masiva y Bioinformática
+Implementation of generative AI models (Stable Diffusion).
 
-    Seminario de Programación Web con enfoque en diseño moderno y funcionalidades responsivas
+Development of cross-platform applications with Flutter/Dart.
 
-    Soluciones de IA para procesamiento de lenguaje natural y visión por computadora
-  
-- 📫 Contacto: business - emiliocaballero@ciencias.unam.mx
-                       personal stuff choumw.emi@gmail.com
+API integration and secure VPN connection setup.
+
+Machine learning solutions with TensorFlow.
+
+Programming Instructor (2019-2023)
+
+Taught R and Python courses at UNAM Cuernavaca.
+
+Introduction to R and Python for the Mexican Bioinformatics Network.
+
+Taught programming fundamentals at the Institute of Biotechnology, UNAM.
+
+🌟 Featured Projects
+Web development for the University Unit of Massive Sequencing and Bioinformatics.
+
+Web Programming Seminar focused on modern design and responsive functionalities.
+
+AI solutions for Natural Language Processing and Computer Vision.
+
+📫 How to Reach Me
+Business: emiliocaballero@ciencias.unam.mx
+
+Personal: choumw.emi@gmail.com
 
 <!---
 EmilioCaballero99/EmilioCaballero99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
