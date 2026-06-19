@@ -1,49 +1,49 @@
-👋 Hello, I'm @DexenRoss. I'm a Computer Science graduate from UNAM (Universidad Nacional Autonoma de México). I am passionate about developing innovative technological solutions and I am constantly learning new technologies.
+<div align="center">
 
-👀 Interested in: Video Games, AIs, LLMs, Web Development and Ethical Hacking.
+<img src="./assets/banner.png" width="100%"/>
 
-🌱 Programming Languages: Java, Python, R, C, C++, JavaScript, CSS, HTML, Dart.
+# Emilio Caballero
 
-🚀 Frameworks & Tools: React, Flutter, Stable Diffusion, TensorFlow.
+### Full Stack Developer • AI Engineer • Scientific Software Developer
 
-💻 Databases: PostgreSQL, MySQL.
+Building intelligent systems, scientific platforms and AI-powered solutions.
 
-🖥️ Systems & DevOps: Linux, Git, GitHub, GitLab, Bash, Windows.
+<p>
+  <a href="https://github.com/DexenRoss">
+    <img src="https://img.shields.io/github/followers/DexenRoss?label=Followers&style=for-the-badge">
+  </a>
 
-🔒 Cybersecurity: Pentesting, Web Hacking, Reverse Engineering, Forensic Analysis.
+  <img src="https://img.shields.io/badge/Location-Mexico-success?style=for-the-badge">
 
-💼 Experience
-Junior Developer (2025)
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-blueviolet?style=for-the-badge">
 
-Implementation of generative AI models (Stable Diffusion).
+</p>
 
-Development of cross-platform applications with Flutter/Dart.
+</div>
 
-API integration and secure VPN connection setup.
+---
 
-Machine learning solutions with TensorFlow.
+# About Me
 
-Programming Instructor (2019-2023)
+I'm a Computer Science student focused on building software that solves real-world problems.
 
-Taught R and Python courses at UNAM Cuernavaca.
+My work combines:
 
-Introduction to R and Python for the Red Mexicana de Bionformatica.
+- 🧬 Scientific software development
+- 🤖 Artificial Intelligence and Deep Learning
+- 💻 Full Stack Web Applications
+- 🔐 Cybersecurity and Pentesting
+- ⚙️ Process Automation
 
-Taught programming fundamentals at Insituto de Biotecnologia, UNAM.
+Currently developing platforms and tools that bridge research, automation and modern software engineering.
 
-🌟 Featured Projects
-Web development for Unidad Universitaria de Secuenciasión Masiva y Bioinformatica.
+---
 
-Web Programming Seminar focused on modern design and responsive functionalities.
+# Current Focus
 
-AI solutions for Natural Language Processing and Computer Vision.
-
-📫 How to Reach Me
-Business: emiliocaballero@ciencias.unam.mx
-
-Personal: choumw.emi@gmail.com
-
-<!---
-EmilioCaballero99/EmilioCaballero99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```txt
+🧬 Phaseolus Scientific Platform
+🔬 Medical Image Classification
+🤖 AI-Powered Automation Systems
+🔐 Offensive Security Training
+🚀 Fanatic Tech Solutions
