@@ -18,6 +18,12 @@ I design and build intelligent systems that combine modern web technologies, aut
 
 </div>
 
+<p align="center">
+  <a href="https://dexenross.github.io/emilio-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
+
 ---
 
 ## Featured Work
