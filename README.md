@@ -51,26 +51,62 @@ Computer vision project focused on histopathological image classification using 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind" />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" height="42" alt="TypeScript" />
+  </a>
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="Next.js" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="42" alt="React" />
+  </a>
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="Tailwind CSS" />
+  </a>
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres" />
+  <a href="https://nodejs.org/en/learn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" />
+  </a>
+  <a href="https://www.prisma.io/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=prisma" height="42" alt="Prisma" />
+  </a>
+  <a href="https://www.postgresql.org/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL" />
+  </a>
 </p>
 
 ### AI & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+  <a href="https://www.python.org/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" />
+  </a>
+  <a href="https://pytorch.org/tutorials/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" height="42" alt="PyTorch" />
+  </a>
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,github,vscode" />
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" />
+  </a>
+  <a href="https://www.kernel.org/doc/html/latest/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux" />
+  </a>
+  <a href="https://docs.github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+  </a>
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code" />
+  </a>
 </p>
+
 
 ---
 
