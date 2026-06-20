@@ -23,27 +23,18 @@ Building intelligent systems, scientific platforms and AI-powered solutions.
 
 ---
 
-# About Me
+Featured Work
+- Phaseolus
+- AI Quotation Assistant
+- Osteosarcoma Classification
 
-I'm a Computer Science student focused on building software that solves real-world problems.
+Core Stack
+- TypeScript / Next.js / React
+- Node.js / Prisma / PostgreSQL
+- Python / PyTorch / YOLO
+- Docker / Linux / GitHub
 
-My work combines:
-
-- 🧬 Scientific software development
-- 🤖 Artificial Intelligence and Deep Learning
-- 💻 Full Stack Web Applications
-- 🔐 Cybersecurity and Pentesting
-- ⚙️ Process Automation
-
-Currently developing platforms and tools that bridge research, automation and modern software engineering.
-
----
-
-# Current Focus
-
-```txt
-🧬 Phaseolus Scientific Platform
-🔬 Medical Image Classification
-🤖 AI-Powered Automation Systems
-🔐 Offensive Security Training
-🚀 Fanatic Tech Solutions
+Currently focused on
+- Scientific software
+- AI automation
+- Computer vision
