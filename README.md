@@ -4,7 +4,7 @@
 
 # Emilio Caballero
 
-### Full Stack Developer • AI Engineer • Scientific Software Developer
+### Software Engineer building AI-powered products and modern web platforms.
 
 Building intelligent systems, scientific platforms and AI-powered solutions.
 
