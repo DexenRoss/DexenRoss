@@ -48,26 +48,30 @@ Computer vision project focused on histopathological image classification using 
 
 ## Core Stack
 
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>Next.js · React · TypeScript · Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js · Prisma · PostgreSQL · REST APIs</td>
-  </tr>
-  <tr>
-    <td><strong>AI & Data</strong></td>
-    <td>Python · PyTorch · YOLO · OpenAI API</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Docker · Linux · GitHub · WSL · Apps Script</td>
-  </tr>
-</table>
+### Frontend
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres" />
+</p>
+
+### AI & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,github,vscode" />
+</p>
+
 
 ## Currently Focused On
 
