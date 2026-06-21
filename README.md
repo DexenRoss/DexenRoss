@@ -15,8 +15,9 @@ I design and build intelligent systems that combine modern web technologies, aut
   </a>
 
   <img src="https://img.shields.io/badge/Location-Mexico-success?style=for-the-badge">
-
-  <img src="https://img.shields.io/badge/Open%20To-Collaboration-blueviolet?style=for-the-badge">
+  <a href="https://dexenross.github.io/emilio-portfolio/#contact">
+    <img src="https://img.shields.io/badge/Open%20To-Collaboration-blueviolet?style=for-the-badge">
+  </a>  
 </p>
 
 </div>
